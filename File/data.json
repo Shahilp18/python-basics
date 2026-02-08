@@ -1,0 +1,9 @@
+{
+    "name": "Shahil",
+    "age": 20,
+    "address": {
+        "village": "Moyad",
+        "district": "Sabarkantha"
+    }
+    
+}
